@@ -1,24 +1,6 @@
-# pere-noel
+# pere-noel-surprise
 
-## Project setup
+## Project dispo sur [le site du père noel](https://pere-noel-surprise.r-selwa.space/)
 ```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+essayer de ne pas mettre trop de fois le meme prénom
+``` 
